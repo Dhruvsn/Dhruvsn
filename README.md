@@ -13,7 +13,7 @@
 
 <p align="left">
 <a href="mailto:dhruvsundan321@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/></a> 
-<a href="https://leetcode.com/eddymalikadnan/" ><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> 
+<a href="https://leetcode.com/dhruvsundan321/" ><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> 
 
 </p>
 
