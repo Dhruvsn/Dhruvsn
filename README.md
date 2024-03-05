@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="mailto:eddymalikadnan@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/></a> 
+<a href="mailto:dhruvsundan321@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/></a> 
 <a href="https://twitter.com/AdnanMalik5989" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
 <a href="https://leetcode.com/eddymalikadnan/" ><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> 
 
@@ -25,7 +25,7 @@
   
  
   <a href="https://cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus" alt="cpp"/> </a> 
-  <a href="https://python.org" target="_blank" rel="noreferrer"> <img src="https://readme-components.vercel.app/api?component=logo&logo=python" alt="python"/> </a> 
+  <a href="https://javascript.com" target="_blank" rel="noreferrer"> <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript" alt="python"/> </a> 
   <a href="https://linux.org" target="_blank" rel="noreferrer"> <img src="https://readme-components.vercel.app/api?component=logo&logo=linux" alt="linux"/> </a> 
   
   
