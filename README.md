@@ -13,7 +13,6 @@
 
 <p align="left">
 <a href="mailto:dhruvsundan321@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/></a> 
-<a href="https://twitter.com/AdnanMalik5989" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
 <a href="https://leetcode.com/eddymalikadnan/" ><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> 
 
 </p>
@@ -32,4 +31,4 @@
 
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Dhruvsn&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Adnan-Malik-26&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
