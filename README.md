@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Sundan</h1>
 <h3 align="center">A Computer Science Student in India</h3>
 <p align="left">  - A dedicated student hailing from Model Institute of Engineering and Technology in Jammu, India.<br>
-  - 📚 My academic journey is powered by my love for coding. I am an avid web developer <br>- 💻 Currently, I'm diving headfirst into the world of Flutter development 🚀, eager to master its intricacies. <br>
+  - 📚 My academic journey is powered by my love for coding. I am an avid web developer.
   - I'm a lifelong learner who thrives on embracing new challenges and exploring the ever-evolving field of software development. <br>
   <h4>🌟 Let's code! 😊👨‍💻</h4> </p>
 
